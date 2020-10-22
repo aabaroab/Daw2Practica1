@@ -7,6 +7,6 @@
             echo "Hello world!";
         }
         writeMsg();
-        ?>
+        php?>
     </body>
 </html>
